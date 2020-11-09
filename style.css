@@ -1,0 +1,96 @@
+.container-header-padre1 {
+    width: 100%;
+    height: 80px;
+    background-color: rgb(139, 104, 172);
+}
+
+.container-header-padre2 {
+    width: 100%;
+    height: 80px;
+    background-color: rgb(111, 214, 218);
+}
+
+.container-header-padre3 {
+    width: 100%;
+    height: 80px;
+    background-color: rgb(132, 224, 170);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+#hgroupfooter {
+    text-align:center; color:black;
+}
+
+#footerpincipal {
+    width: 78%;
+    margin-left:140px;
+    padding-left:30px;
+    padding-top: 15px;
+}
+
+hgroup {
+    text-align:center;
+}
+  
+.Publicidad1 h3 {
+    font-family: "Alegreya", serif;
+    font-size: 40px;
+    line-height: 48px;
+    color: #025157;
+}
+  
+.Publicidad1 > p {
+    font-size: 16px;
+    color: #343434;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+  
+.Publicidad1 > form {
+    display: flex;
+}
+  
+.Publicidad1 > form p {
+    color: #025157;
+    margin-right: 18px;
+}
+
+.boton1 {
+    width: 15%;
+    text-align: right;
+    font-size: 14px;
+}
+  
+.boton1 a {
+    color: #025157;
+}
+  
+.boton1 button {
+    color: white;
+    background-color: #025157;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 10px;
+    padding-bottom: 12px;
+    border: 0;
+    border-radius: 5px;
+}
+  
+.boton1 > * {
+    margin-right: -90px;
+}
+
+#email {
+    border: 1px solid blue;
+    float: left;
+    width: 170px;
+    height:30px;
+  }
+
+#email:hover {
+    border: 1px solid #70c52e;
+}
