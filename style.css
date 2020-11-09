@@ -1,0 +1,20 @@
+.container-header-padre1 {
+    width: 100%;
+    height: 80px;
+    background-color: rgb(139, 104, 172);
+}
+
+#hgroupfooter {
+    text-align:center; color:black;
+}
+
+#footerpincipal {
+    width: 78%;
+    margin-left:140px;
+    padding-left:30px;
+    padding-top: 15px;
+}
+
+hgroup {
+    text-align:center;
+}
