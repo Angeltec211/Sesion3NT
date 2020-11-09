@@ -1,0 +1,95 @@
+.container-header-padre3 {
+    width: 100%;
+    height: 80px;
+    background-color: rgb(132, 224, 170);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.section-padre-1 {
+    display: flex;
+
+    
+    }
+
+.Publicidad1 {
+    width: 68%;
+    height: auto;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+}
+
+  
+.Publicidad1 h3 {
+    font-family: "Alegreya", serif;
+    font-size: 40px;
+    line-height: 48px;
+    color: #025157;
+}
+  
+.Publicidad1 > p {
+    font-size: 16px;
+    color: #343434;
+    
+    margin-bottom: 20px;
+}
+  
+.Publicidad1 > form p {
+    color: #025157;
+    margin-right: 18px;
+}
+
+.imgn {
+    width: 120px;
+    margin-top: 10px;
+}
+
+.boton1 {
+    width: 15%;
+    text-align: right;
+    font-size: 14px;
+}
+  
+.boton1 a {
+    color: #025157;
+}
+  
+.boton1 button {
+    color: white;
+    background-color: #025157;
+    width: 120px;
+    height:30px;
+    border: 0;
+    border-radius: 5px;
+}
+  
+.boton1 > * {
+    margin-right: -160px;
+}
+
+#email {
+    border: 1px solid blue;
+    float: left;
+    width: 170px;
+    height:25px;
+  }
+
+#email:hover {
+    border: 1px solid #70c52e;
+}
+
+#footerpincipal {
+    width: 78%;
+    margin-left:140px;
+    padding-left:30px;
+    padding-top: 15px;
+}
+
+#hgroup-footer {
+    text-align:center; 
+    color:black;
+}
